@@ -11,7 +11,7 @@ MATLAB solutions to 15 applied questions, one for each of the first 15 lectures 
 | **Program** | BS Software Engineering |
 | **University** | COMSATS University Islamabad, Vehari Campus |
 | **Submitted to** | Sir Haider Ali |
-| **Date** | 4 October 2026 |
+| **Date** | 18 October 2026 |
 
 ## Questions and scripts
 
